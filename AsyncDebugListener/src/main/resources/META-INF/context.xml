@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context 
+   path="/AsyncDebug1" 
+   docBase="AsyncDebug1.war" 
+   crossContext="true" 
+   fireRequestListenersOnForwards="true">
+</Context>
